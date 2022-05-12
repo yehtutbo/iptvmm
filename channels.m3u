@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Mahabawdi.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahabawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="MRTV-4.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf 965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel-7.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar TV",Channel-7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel-K HD [Not 24/7]
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="Mahar.mm" group-title="Myanmar TV",Mahar [Not 24/7]
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 tvg-id="DVB.mm" group-title="Myanmar TV",DVB
+https://stream-02.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeCsloax6P6IhpDgy5AKVatAFTE0oHGG39QiCB9rqEhfH)/dm/3/x852wwl/s/live-0.m3u8
+#EXTINF:-1 tvg-id="MWD.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="MWD_Variety.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_variety.png" group-title="Myanmar TV",MWD Variety HD
+http://203.81.84.130/hls/mwd_varitey/index.m3u8
+#EXTINF:-1 tvg-id="MWD_Series.mm" group-title="Myanmar TV",MWD Series HD
+http://203.81.84.130/hls/mwd_series/index.m3u8
+#EXTINF:-1 tvg-id="MWD_Family.mm" group-title="Myanmar TV",MWD Family HD
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-id="MWD_Documentary.mm" group-title="Myanmar TV",MWD Documentary HD
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-id="MWD_Shopping.mm" group-title="Myanmar TV",MWD Shopping HD
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 tvg-id="MVM.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-title="Myanmar TV",MVM HD
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w807259826.m3u8
