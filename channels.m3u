@@ -17,13 +17,13 @@ http://203.81.84.130/hls/mwd/index.m3u8
 http://203.81.84.130/hls/mwd_varitey/index.m3u8
 #EXTINF:-1 tvg-id="MWD_Movies.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_movies.png" group-title="Myanmar TV",MWD Movies HD
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 tvg-id="MWD_Family.mm" group-title="Myanmar TV",MWD Family HD
+#EXTINF:-1 tvg-id="MWD_Family.mm" tvg-logo="https://www.asiasat.com/channelguide/images/mwd-family.jpg" group-title="Myanmar TV",MWD Family HD
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-id="MWD_Documentary.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_documentary.png" group-title="Myanmar TV",MWD Documentary HD
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="MWD_Shopping.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd-shopping-mm.png" group-title="Myanmar TV",MWD Shopping HD
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 tvg-id="MWD_Edu.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD Education, Knowledge, Sport
+#EXTINF:-1 tvg-id="MWD_Edu.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD Education Knowledge & Sport
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="MVM.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-title="Myanmar TV",MVM HD
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w807259826.m3u8
