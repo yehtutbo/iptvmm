@@ -7,9 +7,9 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel-K HD [Not 24/7]
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="Mahar.mm" group-title="Myanmar TV",Mahar [Not 24/7]
+#EXTINF:-1 tvg-id="Mahar.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_tv_mm.png"  group-title="Myanmar TV",Mahar [Not 24/7]
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
-#EXTINF:-1 tvg-id="DVB.mm" group-title="Myanmar TV",DVB
+#EXTINF:-1 tvg-id="DVB.mm" tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic_voice_of_burma.png" group-title="Myanmar TV",DVB
 https://stream-02.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeF-ZWm0bI__OGS4UCo0JDJ5VAGPJ8dDThaoA_ysh26Of)/dm/3/x852wwl/s/live-0.m3u8
 #EXTINF:-1 tvg-id="MWD.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD HD
 http://203.81.84.130/hls/mwd/index.m3u8
