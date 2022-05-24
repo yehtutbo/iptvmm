@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Mahabawdi.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahabawdi
+#EXTINF:-1 tvg-id="Mahabawdi.mm" tvg-logo="mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahabawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="MRTV-4.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
+#EXTINF:-1 tvg-id="MRTV-4.mm" tvg-logo="mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="Channel-7.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar TV",Channel-7
+#EXTINF:-1 tvg-id="Channel-7.mm" tvg-logo="channel7_mm.png" group-title="Myanmar TV",Channel-7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel-K HD [Not 24/7]
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
